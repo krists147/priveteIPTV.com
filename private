@@ -7,5 +7,5 @@ http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 http://player.tvnet.lv/live/amlst:11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="LATVIA",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1
-http://80.233.201.115:8001/1:0:19:3719:E:70:1680000:0:0:0:http%3a//192.168.0.73%3a8001/1%3a0%3a19%3a3719%3aE%3a70%3a1680000%3a0%3a0%3a0:????! ?????? 1 HD
+#EXTINF:-1,MATCH
+http://80.233.201.115:8001/1:0:19:3719:E:70:1680000:0:0:0:
