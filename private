@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Discovery Channel
 http://vaders.tv/live/ern1062/gfdsza/39639.ts
-
+#EXTINF:-1,National Geographics HD
+http://vaders.tv/live/ern1062/gfdsza/2754.ts
