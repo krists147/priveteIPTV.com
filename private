@@ -15,3 +15,5 @@ http://p4.giffy.be:8080/live/test12345/test12345/20935.ts
 http://46.109.30.163.204:8001/1:0:19:89A:16:70:1680000:0:0:0:
 #EXTINF:-1,National Geographics HD
 http://46.109.30.163.204:8001/1:0:19:6592:9:70:1680000:0:0:0:
+#EXTINF:-1 tvg-id="LNT" tvg-name="LNT" group-title="Latvija(LT servers)",LNT 
+http://78.157.93.11:8001/1:0:1:18D8:E:55:300000:0:0:0:
