@@ -35,4 +35,5 @@ http://46.109.29.96:8001/1:0:19:89A:16:70:1680000:0:0:0:
 http://78.84.158.16:8001/1:0:19:6592:9:70:1680000:0:0:0:
 #EXTINF:-1,tvg-id="History" tvg-name="History" group-title="Latvija(LT servers)"  audio-track="eng",History HD
 http://78.157.93.11:8001/1:0:19:6594:9:70:1680000:0:0:0:
-
+#EXTINF:-1,tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" group-title="Latvija(LT servers)"  audio-track="eng",Nat Geo Wild HD
+http://84.240.7.98:8001/1:0:19:4E85:14:70:1680000:0:0:0:
