@@ -31,6 +31,8 @@ http://78.157.93.11:8001/1:0:1:18D8:E:55:300000:0:0:0:
 http://78.157.93.11:8001/1:0:1:18BF:E:55:300000:0:0:0:
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Latvija(LT servers)",Animal Planet HD
 http://46.109.29.96:8001/1:0:19:89A:16:70:1680000:0:0:0:
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Latvija(LT servers)",Animal Planet HD 2
+http://78.157.74.183:8001/1:0:19:89A:16:70:1680000:0:0:0:
 #EXTINF:-1,tvg-id="National Geographic" tvg-name="National Geographic" group-title="Latvija(LT servers)"  audio-track="eng",National Geographic HD
 http://78.84.158.16:8001/1:0:19:6592:9:70:1680000:0:0:0:
 #EXTINF:-1,tvg-id="History" tvg-name="History" group-title="Latvija(LT servers)"  audio-track="eng",History HD
