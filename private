@@ -21,9 +21,9 @@ http://46.109.29.96:8001/1:0:19:6592:9:70:1680000:0:0:0:
 http://78.157.93.11:8001/1:0:1:18F6:E:55:300000:0:0:0:
 #EXTINF:-1 tvg-id="LTV7" tvg-name="LTV7" group-title="Latvija(LT servers)",LTV7
 http://78.157.93.11:8001/1:0:1:1AAE:12:55:300000:0:0:0:
-#EXTINF:-1 tvg-id="TV3 Latvia" tvg-name="TV3 Latvia" group-title="Latvija(LT servers)
+#EXTINF:-1 tvg-id="TV3 Latvia" tvg-name="TV3 Latvia" group-title="Latvija(LT servers), TV3
 http://78.157.93.11:8001/1:0:1:189C:E:55:300000:0:0:0:
 #EXTINF:-1 tvg-id="LNT" tvg-name="LNT" group-title="Latvija(LT servers)",LNT 
 http://78.157.93.11:8001/1:0:1:18D8:E:55:300000:0:0:0:
-#EXTINF:-1 tvg-id="TV6 Latvia" tvg-name="TV6 Latvia" group-title="Latvija(LT servers)",TV6 Latvia
+#EXTINF:-1 tvg-id="TV6 Latvia" tvg-name="TV6 Latvia" group-title="Latvija(LT servers)",TV6
 http://78.157.93.11:8001/1:0:1:18BF:E:55:300000:0:0:0:
