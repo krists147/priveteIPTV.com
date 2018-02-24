@@ -1,20 +1,46 @@
 #EXTM3U
-#EXTINF:-1,Sky Cinema Comedy HD
+#EXTINF:-1,group-title="Science",Sky Cinema Comedy HD
 http://vaders.tv/live/ern1062/gfdsza/2743.ts
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,group-title="Science",Discovery Channel
 http://vaders.tv/live/ern1062/gfdsza/39639.ts
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1,group-title="Science",Discovery Channel HD
 http://vaders.tv/live/ern1062/gfdsza/2445.ts
-#EXTINF:-1,National Geographics HD
+#EXTINF:-1,group-title="Science",National Geographics HD
 http://vaders.tv/live/ern1062/gfdsza/2754.ts
-#EXTINF:-1,History HD
+#EXTINF:-1,group-title="Science",History HD
 http://vaders.tv/live/ern1062/gfdsza/2915.ts
-#EXTINF:-1,DISCOVERY SCIENCE HD
+#EXTINF:-1,group-title="Science",DISCOVERY SCIENCE HD
 http://p4.giffy.be:8080/live/test12345/test12345/20935.ts
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1,group-title="Science",Animal Planet HD
 http://46.109.29.96:8001/1:0:19:89A:16:70:1680000:0:0:0:
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1,group-title="Science",National Geographic HD
 http://46.109.29.96:8001/1:0:19:6592:9:70:1680000:0:0:0:
+#EXTINF:-1,group-title="CA",DISCOVERY HD
+http://p4.giffy.be:8080/live/test12345/test12345/21102.ts
+#EXTINF:-1,group-title="US",DISCOVERY SCIENCE HD
+http://p4.giffy.be:8080/live/test12345/test12345/20935.ts
+#EXTINF:-1,group-title="Science",DISCOVERY CHANNEL HD
+http://p4.giffy.be:8080/live/test12345/test12345/30037.ts
+#EXTINF:-1,group-title="UK",DISCOVERY CH
+http://p4.giffy.be:8080/live/test12345/test12345/30539.ts
+#EXTINF:-1,group-title="UK",DISCOVERY HISTORY
+http://p4.giffy.be:8080/live/test12345/test12345/30538.ts
+#EXTINF:-1,group-title="UK",DISCOVERY SCIENCE
+http://p4.giffy.be:8080/live/test12345/test12345/30536.ts
+#EXTINF:-1,group-title="UK",DISCOVERY SHED
+http://p4.giffy.be:8080/live/test12345/test12345/30535.ts
+#EXTINF:-1,group-title="UK",DISCOVERY TURBO
+http://p4.giffy.be:8080/live/test12345/test12345/30534.ts
+#EXTINF:-1,group-title="US",DISCOVERY HD
+http://p4.giffy.be:8080/live/test12345/test12345/32182.ts
+#EXTINF:-1,group-title="UK",FOX VOD
+http://p4.giffy.be:8080/live/test12345/test12345/30520.ts
+#EXTINF:-1,group-title="UK",HISTORY
+http://p4.giffy.be:8080/live/test12345/test12345/30528.ts
+#EXTINF:-1,group-title="UK",HISTORY 
+http://p4.giffy.be:8080/live/test12345/test12345/30523.ts
+#EXTINF:-1,group-title="Science",History HD
+http://p4.giffy.be:8080/live/test12345/test12345/30041.ts
 
 
 
