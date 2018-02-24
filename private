@@ -5,31 +5,31 @@ http://p4.giffy.be:8080/live/test12345/test12345/20935.ts
 http://46.109.29.96:8001/1:0:19:89A:16:70:1680000:0:0:0:
 #EXTINF:-1,group-title="Science",National Geographic HD
 http://46.109.29.96:8001/1:0:19:6592:9:70:1680000:0:0:0:
-#EXTINF:-1,group-title="CA",DISCOVERY HD
+#EXTINF:-1,group-title="CA",DISCOVERY HD g
 http://p4.giffy.be:8080/live/test12345/test12345/21102.ts
-#EXTINF:-1,group-title="US",DISCOVERY SCIENCE HD
+#EXTINF:-1,group-title="US",DISCOVERY SCIENCE HD g
 http://p4.giffy.be:8080/live/test12345/test12345/20935.ts
-#EXTINF:-1,group-title="Science",DISCOVERY CHANNEL HD
+#EXTINF:-1,group-title="Science",DISCOVERY CHANNEL HD g
 http://p4.giffy.be:8080/live/test12345/test12345/30037.ts
-#EXTINF:-1,group-title="UK",DISCOVERY CH
+#EXTINF:-1,group-title="UK",DISCOVERY CH g
 http://p4.giffy.be:8080/live/test12345/test12345/30539.ts
-#EXTINF:-1,group-title="UK",DISCOVERY HISTORY
+#EXTINF:-1,group-title="UK",DISCOVERY HISTORY g
 http://p4.giffy.be:8080/live/test12345/test12345/30538.ts
-#EXTINF:-1,group-title="UK",DISCOVERY SCIENCE
+#EXTINF:-1,group-title="UK",DISCOVERY SCIENCE g
 http://p4.giffy.be:8080/live/test12345/test12345/30536.ts
-#EXTINF:-1,group-title="UK",DISCOVERY SHED
+#EXTINF:-1,group-title="UK",DISCOVERY SHED g
 http://p4.giffy.be:8080/live/test12345/test12345/30535.ts
-#EXTINF:-1,group-title="UK",DISCOVERY TURBO
+#EXTINF:-1,group-title="UK",DISCOVERY TURBO g
 http://p4.giffy.be:8080/live/test12345/test12345/30534.ts
-#EXTINF:-1,group-title="US",DISCOVERY HD
+#EXTINF:-1,group-title="US",DISCOVERY HD g
 http://p4.giffy.be:8080/live/test12345/test12345/32182.ts
-#EXTINF:-1,group-title="UK",FOX VOD
+#EXTINF:-1,group-title="UK",FOX VOD g
 http://p4.giffy.be:8080/live/test12345/test12345/30520.ts
-#EXTINF:-1,group-title="UK",HISTORY
+#EXTINF:-1,group-title="UK",HISTORY g
 http://p4.giffy.be:8080/live/test12345/test12345/30528.ts
-#EXTINF:-1,group-title="UK",HISTORY 
+#EXTINF:-1,group-title="UK",HISTORY g
 http://p4.giffy.be:8080/live/test12345/test12345/30523.ts
-#EXTINF:-1,group-title="Science",History HD
+#EXTINF:-1,group-title="Science",History HD g
 http://p4.giffy.be:8080/live/test12345/test12345/30041.ts
 
 
