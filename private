@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1,group-title="Science",Sky Cinema Comedy HD
-http://vaders.tv/live/ern1062/gfdsza/2743.ts
-#EXTINF:-1,group-title="Science",Discovery Channel
-http://vaders.tv/live/ern1062/gfdsza/39639.ts
-#EXTINF:-1,group-title="Science",Discovery Channel HD
-http://vaders.tv/live/ern1062/gfdsza/2445.ts
-#EXTINF:-1,group-title="Science",National Geographics HD
-http://vaders.tv/live/ern1062/gfdsza/2754.ts
-#EXTINF:-1,group-title="Science",History HD
-http://vaders.tv/live/ern1062/gfdsza/2915.ts
 #EXTINF:-1,group-title="Science",DISCOVERY SCIENCE HD
 http://p4.giffy.be:8080/live/test12345/test12345/20935.ts
 #EXTINF:-1,group-title="Science",Animal Planet HD
