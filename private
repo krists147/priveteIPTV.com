@@ -43,6 +43,8 @@ http://78.157.93.11:8001/1:0:1:18D8:E:55:300000:0:0:0:
 http://78.157.93.11:8001/1:0:1:18BF:E:55:300000:0:0:0:
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Latvija(LT servers2)",Animal Planet HD
 http://78.157.93.11:8001/1:0:19:89A:16:70:1680000:0:0:0:
+#EXTINF:-1 tvg-id="CHAU TV" tvg-name="CHAU TV" group-title="Latvija(LT servers2)",CHAU TV
+https://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
 #EXTINF:-1,tvg-id="National Geographic" tvg-name="National Geographic" group-title="Latvija(LT servers2)"  audio-track="eng",National Geographic HD
 http://78.157.93.11:8001/1:0:19:6592:9:70:1680000:0:0:0:
